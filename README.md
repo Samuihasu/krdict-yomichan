@@ -1,0 +1,1 @@
+# krdict-yomichan
