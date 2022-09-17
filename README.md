@@ -4,7 +4,7 @@ A Korean dictionary for [Yomichan](https://github.com/FooSoft/yomichan).
 
 Dictionary inculdes: Words, Phrases and Grammar/Expressions
 
-If you see an error in conjugation or a missing word, please submit an issue in this format:
+If you see an error in conjugation or a missing verb stem, please submit an issue in this format:
 
 Verb:
 
