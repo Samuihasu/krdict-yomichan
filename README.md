@@ -15,6 +15,7 @@ If you see an error in conjugation or a missing verb stem, please submit an issu
 -Issue:
 
 If you have a long list, it would help me out if you post a text/excel/google sheets file of the words you want fixed.
+
 Example: Verb | Dictionary form | Definiton | Issue
 
 ------------------------------
